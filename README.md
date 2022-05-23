@@ -1,8 +1,6 @@
 # Contexte
-```
-ATTENTION :
-Ceci est un WIP (WORK IN PROGRESS). Ce document n'EST PAS un document officiel et ne doit pas être pris pour un référentiel.  
-```
+
+**ATTENTION : Ceci est un WIP (WORK IN PROGRESS). Ce document n'EST PAS un document officiel et ne doit pas être pris pour un référentiel.**
 
 Les règles de sécurité visent à sécuriser le système d'information du pays en partant du principe que :
 - la validité d'un site, d'une application ou d'une adresse de messagerie officiel est **évidente** pour tout le monde ;
